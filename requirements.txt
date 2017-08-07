@@ -3,5 +3,4 @@ pycrypto==2.6.1
 cryptography==1.7.2
 paramiko==2.0.1
 logging==0.4.9.6
-fluentmail==0.1.1
 
